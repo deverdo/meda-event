@@ -1,0 +1,16 @@
+.howCanWeHelpCardItems:hover {
+    box-shadow: 0 0 10px silver; 
+    
+
+}
+
+@keyframes hoverEffect {
+    from {
+        scale:(1)
+    }
+
+    to {
+
+        scale:(10)
+    }
+}
