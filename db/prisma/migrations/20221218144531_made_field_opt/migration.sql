@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "event" ALTER COLUMN "runtime" DROP NOT NULL,
+ALTER COLUMN "eventType" DROP NOT NULL;
